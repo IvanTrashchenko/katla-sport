@@ -21,7 +21,7 @@
         public string Code { get; set; }
 
         /// <summary>
-        /// Gets or sets a value indicating whether a hive is deleted.
+        /// Gets or sets a value indicating whether a hive section is deleted.
         /// </summary>
         public bool IsDeleted { get; set; }
     }
